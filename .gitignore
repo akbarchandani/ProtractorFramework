@@ -1,0 +1,5 @@
+package-lock.json
+allure-results/
+target/
+screenshots/
+node_modules/
